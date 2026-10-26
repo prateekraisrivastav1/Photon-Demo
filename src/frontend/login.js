@@ -1,1 +1,1 @@
-Print("Trying to use codeowners")
+print("deleted functionality")

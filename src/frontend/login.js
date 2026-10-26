@@ -1,1 +1,1 @@
-print("Frontend login functionality initialized")
+print("deleted functionality")

@@ -1,2 +1,2 @@
-# USGI-Demo
-Demo for Universal Sampo General Insurance
+# Photon-Demo
+Demo for Photon
